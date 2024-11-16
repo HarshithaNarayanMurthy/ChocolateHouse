@@ -14,9 +14,9 @@ Make sure you have the following installed:
 
 ### 1. Clone the repository
 
-### 2. Run the following commands
-#### pip install -r requirements.txt
-#### docker build -t chocolate-house .
-#### python app.py
+### 2. Run the following commands:
+##### pip install -r requirements.txt
+##### docker build -t chocolate-house .
+##### python app.py
 
 This will start the Flask development server on http://127.0.0.1:5000/. You can open this URL in your browser to access the app.
